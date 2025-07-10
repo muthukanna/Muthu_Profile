@@ -7,7 +7,7 @@
 ## 🧑‍💻 About Me
 
 - 🔧 Skilled in Java, Spring Boot, Quarkus, Microservices
-- 🌐 Full stack experience with Angular, React, HTML, CSS
+- 🌐 Full stack experience with React, HTML, CSS
 - 🛠️ Backend integrations with SAP HANA & Hybris
 - 🐳 Dockerized deployments for microservices
 - 📦 RESTful API design and implementation
